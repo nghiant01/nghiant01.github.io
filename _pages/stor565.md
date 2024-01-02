@@ -4,7 +4,7 @@ title: "STOR 565"
 permalink: /stor565/
 author_profile: true
 redirect_from:
-  - /resume
+  - /stor565
 ---
 
 {% include base_path %}
