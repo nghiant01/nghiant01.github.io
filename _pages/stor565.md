@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "STOR 565"
+title: "STOR 565: Machine Learning (Spring 2024)"
 permalink: /stor565/
 author_profile: true
 redirect_from:
