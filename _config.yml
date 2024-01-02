@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Trung Nghia Nguyen's website"
-title_separator          : "-"
+#title_separator          : "-"
 name                     : &name "Trung Nghia Nguyen"
-description              : &description "personal description"
+description              : &description "Trung Nghia Nguyen"
 url                      : https://nghiant01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nghiant01/nghiant01.github.io"
