@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Trung Nghia Nguyen"
   avatar           : "Mon.jpg"
-  bio              : "A PhD student at The University of Wisconsin - Madison"
-  location         : "Wisconsin, Madison"
+  bio              : "PhD student at Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
+  location         : "Chapel Hill, North Carolina"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=QlNqCvYAAAAJ&hl=vi"
+  email            : "nghiant@unc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Trung-Nghia-Nguyen"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-8620-6311"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
