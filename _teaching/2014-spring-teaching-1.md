@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Fall 2022 - STOR 215: Foundation of Decision Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction to basic concepts and techniques of discrete mathematics with applications to business and social and physical sciences. Topics include logic, sets, functions, combinatorics, discrete probability, graphs, and networks.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Class size: 70.
