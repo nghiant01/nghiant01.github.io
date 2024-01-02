@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](nghiant01.github.io/files/paper1.pdf)
+[CV](paper1.pdf)
 
 Education aaa
 =====
