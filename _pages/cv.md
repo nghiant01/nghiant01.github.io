@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](paper1.pdf)
+My CV is available [here](Files/CV/NghiaNT_CV.pdf).
 
 Education aaa
 =====
