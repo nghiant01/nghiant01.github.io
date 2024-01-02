@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trung Nghia Nguyen"
+title                    : "Trung Nghia Nguyen's website"
 title_separator          : "-"
 name                     : &name "Trung Nghia Nguyen"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Trung Nghia Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A PhD student in Geography in The University of Wisconsin - Madison"
   location         : "Wisconsin, Madison"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
