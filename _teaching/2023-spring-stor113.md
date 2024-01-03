@@ -2,6 +2,7 @@
 title: "Spring 2023 - STOR 113: Decision Models for Business and Economics"
 collection: teaching
 type: "Undergraduate course"
+date: 2023-01-10
 permalink: /teaching/2023-spring-stor113
 venue: "Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
 ---
