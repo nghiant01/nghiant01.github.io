@@ -3,6 +3,7 @@ title: "Summer 2023 (Session 2) - STOR 155: Introduction to Data Models and Infe
 collection: teaching
 role: "Teaching Assistant"
 type: "Undergraduate course"
+date: 2023-06-25
 permalink: /teaching/2023-summer2-stor155
 venue: "Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
 ---
