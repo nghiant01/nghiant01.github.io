@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/optiscicom-20
 venue: "The 20th Workshop on Optimization and Scientific Computing"
-date: 2021-04-22
+date: 2022-04-22
 location: "Ba Vi, Viet Nam"
 ---
