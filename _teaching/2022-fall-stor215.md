@@ -3,6 +3,7 @@ title: "Fall 2022 - STOR 215: Foundation of Decision Science"
 collection: teaching
 role: "Teaching Assistant"
 type: "Undergraduate course"
+date: 2022-08-15
 permalink: /teaching/2022-stor215
 venue: "Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
 ---
