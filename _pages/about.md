@@ -14,6 +14,6 @@ I am currently a second-year PhD student at the [Department of Statistics and Op
 **Trung Nghia Nguyen**\\
 _Department of Statistics and Operations Research_\\
 Address: B48 Hanes Hall, University of North Carolina at Chapel Hill, Chapel Hill, NC 27516, USA\\
-Email: nghiant@unc.edu\\
+Email: [nghiant@unc.edu](mailto:nghiant@unc.edu)\\
 Phone number: +1 (984) 234-8921\\
 My name in native language: **Nguyễn Trung Nghĩa** _(**Nghĩa** is my first name)_
