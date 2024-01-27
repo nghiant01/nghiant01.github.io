@@ -9,11 +9,16 @@ author_profile: true
 
 ## Lab Instructor
 ### STOR 120: Foundations of Statistics and Data Science (Spring 2024)
-_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 205 (2 sections)_
+_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 81 (3 sections)_
 
 This course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze those data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.
 
 ## Teaching Assistant
+### STOR 120: Foundations of Statistics and Data Science (Spring 2024)
+_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 205 (2 sections)_
+
+This course combines three perspectives: inferential thinking, computational thinking, and real-world relevance. Given data arising from some real-world phenomenon, how does one analyze those data so as to understand that phenomenon? The course teaches critical concepts and skills in computer programming and statistical inference, in conjunction with hands-on analysis of real-world datasets, including economic data, document collections, geographical data, and social networks. It delves into social issues surrounding data analysis such as privacy and design.
+
 ### STOR 155: Introduction to Data Models and Inference (Summer 2023, Session 2)
 _Undergraduate course, STOR, UNC-Chapel Hill, Class size: 26_
 
