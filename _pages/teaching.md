@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Teaching Fellow
+### STOR 155: Introduction to Data Models and Inference (Summer 2024, Session 2)
+_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 13_
+
+Data analysis; correlation and regression; sampling and experimental design; basic probability (random variables, expected values,
+normal and binomial distributions); hypothesis testing and confidence intervals for means, proportions, and regression parameters; use of spreadsheet software.
+
 ## Lab Instructor
 ### STOR 120: Foundations of Statistics and Data Science (Spring 2024)
 _Undergraduate course, STOR, UNC-Chapel Hill, Class size: 81 (3 sections)_
