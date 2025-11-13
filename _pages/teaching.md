@@ -22,6 +22,12 @@ _Undergraduate course, STOR, UNC-Chapel Hill, Class size: 13_
 _Undergraduate course, STOR, UNC-Chapel Hill, Class size: 81 (3 sections)_
 
 ## Teaching Assistant
+### STOR 415H: Introduction to Optimization (Fall 2025, Honors)
+_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 14_
+
+### STOR 415: Introduction to Optimization (Fall 2025)
+_Undergraduate course, STOR, UNC-Chapel Hill, Class size: 108_
+
 ### STOR 120: Foundations of Statistics and Data Science (Spring 2024)
 _Undergraduate course, STOR, UNC-Chapel Hill, Class size: 205 (2 sections)_
 
