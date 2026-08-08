@@ -8,10 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fifth-year Ph.D. candidate at the [Department of Statistics and Operations Research](https://stor.unc.edu/), [University of North Carolina at Chapel Hill](https://unc.edu/). Since 2023, I’ve been working with [Prof. Quoc Tran-Dinh](https://quoctd.web.unc.edu/) on efficient numerical methods for generalized equations with applications in machine learning. As part of my Ph.D. program, I passed the Preliminary Oral Examination and earned a Master of Science degree in Statistics, Analytics, and Data Science (STANDS) in 2025. Previously, I received my Engineer's degree in Mathematics and Informatics from the [School of Applied Mathematics and Informatics](https://sami.hust.edu.vn/), [Hanoi University of Science and Technology](https://hust.edu.vn/), Vietnam. During my undergraduate time, I worked with [Prof. Nguyen Thi Thu Thuy](https://sami.hust.edu.vn/hoc-tap/giang-vien/?name=thuyntt) on numerical methods for solving variational inequality problems, split feasibility problems, as well as their generalizations and applications. 
+I am a Ph.D. Candidate in the [Department of Statistics and Operations Research](https://stor.unc.edu/) at the [University of North Carolina at Chapel Hill](https://unc.edu/), advised by [Prof. Quoc Tran-Dinh](https://quoctd.web.unc.edu/). My expected graduation date is **May 2027**.
+
+### Research Interests
+My research lies in mathematical optimization, numerical algorithms, and continuous operator theory, with a focus on:
+* **First-Order under Nonmonotonicity:** Extragradient and its generalizations, operator splitting methods, Halpern and Krasnosel'skiǐ-Mann-type iterations, etc.
+* **Deterministic & Stochastic Methods:** Scalable optimization schemes spanning classical deterministic frameworks to modern stochastic regimes, leveraging mini-batching, variance reduction, and block-coordinate techniques for large-scale problems.
+* **Distributed Computing:** Asynchronous, parallel, and decentralized consensus frameworks designed for large-scale optimization over complex network architectures.
+
+### Education & Background
+* **Ph.D. & M.S. in Statistics and Operations Research**, UNC Chapel Hill (M.S. earned in 2025).
+* **Engineer in Mathematics and Informatics**, [Hanoi University of Science and Technology](https://hust.edu.vn/) (2022). 
+  * *Honors:* **Valedictorian of the Class of 2022 (Ranked 1st)**; advised by [Prof. Nguyen Thi Thu Thuy](https://sami.hust.edu.vn/hoc-tap/giang-vien/?name=thuyntt).
+
 
 # Contact
-**Trung Nghia Nguyen, M.S.**\\
+**Nghia Nguyen-Trung, M.S.**\\
 _Department of Statistics and Operations Research_\\
 Address: B48 Hanes Hall, University of North Carolina at Chapel Hill, Chapel Hill, NC 27516, USA\\
 Email: [nghiant@unc.edu](mailto:nghiant@unc.edu)\\
