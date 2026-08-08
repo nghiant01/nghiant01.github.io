@@ -28,11 +28,11 @@ author_profile: true
 <h3>Graduate Teaching Assistant &amp; Lab Instructor</h3>
 <ul>
   <li>
-    <b>STOR 612: Foundations of Optimization</b> <i>(Ph.D. Level)</i><br />
+    <b>STOR 612: Foundations of Optimization</b> <i>(Ph.D. Level, Fall 2026)</i><br />
     Led recitations and graded advanced graduate coursework covering convex analysis, duality theory, polyhedral geometry, linear/quadratic programming (simplex and interior-point methods), first-order &amp; proximal algorithms, accelerated gradient methods, and stochastic optimization (SGD with variance reduction) applied to ERM, LASSO, and SVMs.
   </li>
   <li style="margin-top: 10px;">
-    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b><br />
+    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b> <i>(Spring 2026)</i><br />
     Held weekly office hours and assisted with coursework grading. Guided students on optimization formulations in ML (nonlinear regression, SVMs, matrix factorizations), stochastic first-order algorithms (SGD, mini-batching, Adam), backpropagation and automatic differentiation, neural network training (PyTorch/TensorFlow), and minimax/GAN architectures.
   </li>
   <li style="margin-top: 10px;">
