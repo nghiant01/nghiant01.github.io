@@ -7,25 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints & Submitted Manuscripts
+<h2 class="archive__subtitle">Preprints &amp; Submitted Manuscripts</h2>
 
 {% assign preprints = site.publications | where: "category", "preprint" | sort: "date" | reverse %}
 {% for post in preprints %}
   {% include archive-single.html %}
 {% endfor %}
 
----
+<hr style="margin: 2.5em 0 1.5em 0; border: 0; border-top: 1px solid #eeeeee;" />
 
-## Peer-Reviewed Journal Articles
+<h2 class="archive__subtitle">Peer-Reviewed Journal Articles</h2>
 
 {% assign journals = site.publications | where: "category", "journal" | sort: "date" | reverse %}
 {% for post in journals %}
   {% include archive-single.html %}
 {% endfor %}
 
----
+<hr style="margin: 2.5em 0 1.5em 0; border: 0; border-top: 1px solid #eeeeee;" />
 
-## Working Papers in Preparation
+<h2 class="archive__subtitle">Working Papers in Preparation</h2>
 
 {% assign workings = site.publications | where: "category", "working" | sort: "date" | reverse %}
 {% for post in workings %}
