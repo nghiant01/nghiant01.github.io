@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in the [Department of Statistics and Operations Research]
 
 ### Research Interests
 My research lies in mathematical optimization, numerical algorithms, and continuous operator theory, with a focus on:
-* **First-Order under Nonmonotonicity:** Extragradient and its generalizations, operator splitting methods, Halpern and Krasnosel'skiǐ-Mann-type iterations, etc.
+* **First-Order Methods under Nonmonotonicity:** Extragradient and its generalizations, operator splitting methods, Halpern and Krasnosel'skiǐ-Mann-type iterations, etc.
 * **Deterministic & Stochastic Methods:** Scalable optimization schemes spanning classical deterministic frameworks to modern stochastic regimes, leveraging mini-batching, variance reduction, and block-coordinate techniques for large-scale problems.
 * **Distributed Computing:** Asynchronous, parallel, and decentralized consensus frameworks designed for large-scale optimization over complex network architectures.
 
