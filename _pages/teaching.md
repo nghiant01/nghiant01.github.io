@@ -32,7 +32,7 @@ author_profile: true
     Led recitations and graded advanced assignments covering convex analysis, duality theory, and foundational optimization algorithms.
   </li>
   <li style="margin-top: 8px;">
-    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b><br /> <i>(Spring 2026)</i>
+    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b> <i>(Spring 2026)</i><br />
     Assisted in instruction on first-order methods, stochastic gradient descent, and optimization algorithms tailored for deep learning models.
   </li>
   <li style="margin-top: 8px;">
