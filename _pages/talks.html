@@ -7,14 +7,47 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+.badge-new {
+  background-color: #e74c3c;
+  color: #ffffff;
+  font-size: 0.7em;
+  font-weight: bold;
+  padding: 2px 7px;
+  border-radius: 10px;
+  margin-left: 6px;
+  display: inline-block;
+  vertical-align: middle;
+  box-shadow: 0 0 4px rgba(231, 76, 60, 0.6);
+  animation: blinker 1.2s linear infinite;
+}
+
+@keyframes blinker {
+  50% { opacity: 0.25; }
+}
+
+.news-list {
+  margin-top: 12px;
+  margin-bottom: 25px;
+  padding-left: 20px;
+}
+
+.news-list li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+</style>
+
 <h2 class="archive__subtitle">Recent News</h2>
 
-* **[Nov 2026]** Scheduled poster presentation at *SIAM Conference on Mathematics of Data Science (MDS26)* in Salt Lake City, Utah.
-* **[Nov 2026]** Scheduled contributed talk at *INFORMS Annual Meeting 2026* in San Francisco, CA.
-* **[May 2026]** Received the **Silver Reviewer Award** at the 43rd International Conference on Machine Learning (ICML 2026).
-* **[Mar 2026]** Paper *"Revisiting Extragradient-Type Methods: Part 1—Generalizations and Sublinear Convergence Rates"* published in *Computational Optimization and Applications (COAP)*.
-* **[Dec 2025]** Received the **Excellence in Teaching Assistance and Instruction Award** at UNC-Chapel Hill.
-* **[Dec 2024]** Received the **Excellence in Teaching Assistance and Instruction Award** at UNC-Chapel Hill.
+<ul class="news-list">
+  <li><b>[Nov 2026]</b> Scheduled poster presentation at <i>SIAM Conference on Mathematics of Data Science (MDS26)</i> in Salt Lake City, Utah. <span class="badge-new">NEW</span></li>
+  <li><b>[Nov 2026]</b> Scheduled contributed talk at <i>INFORMS Annual Meeting 2026</i> in San Francisco, CA. <span class="badge-new">NEW</span></li>
+  <li><b>[May 2026]</b> Received the <b>Silver Reviewer Award</b> at the 43rd International Conference on Machine Learning (ICML 2026). <span class="badge-new">NEW</span></li>
+  <li><b>[Mar 2026]</b> Paper <i>"Revisiting Extragradient-Type Methods: Part 1—Generalizations and Sublinear Convergence Rates"</i> published in <i>Computational Optimization and Applications (COAP)</i>.</li>
+  <li><b>[Dec 2025]</b> Received the <b>Excellence in Teaching Assistance and Instruction Award</b> at UNC-Chapel Hill.</li>
+  <li><b>[Dec 2024]</b> Received the <b>Excellence in Teaching Assistance and Instruction Award</b> at UNC-Chapel Hill.</li>
+</ul>
 
 <hr style="margin: 2.5em 0 1.5em 0; border: 0; border-top: 1px solid #eeeeee;" />
 
