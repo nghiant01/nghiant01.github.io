@@ -1,12 +1,33 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Preprints & Submitted Manuscripts
+
+{% assign preprints = site.publications | where: "category", "preprint" | sort: "date" | reverse %}
+{% for post in preprints %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## Peer-Reviewed Journal Articles
+
+{% assign journals = site.publications | where: "category", "journal" | sort: "date" | reverse %}
+{% for post in journals %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+
+## Working Papers in Preparation
+
+{% assign workings = site.publications | where: "category", "working" | sort: "date" | reverse %}
+{% for post in workings %}
   {% include archive-single.html %}
 {% endfor %}
