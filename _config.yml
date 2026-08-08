@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Trung Nghia Nguyen"
+title                    : "Nghia Nguyen-Trung"
 title_separator          : "-"
-name                     : &name "Trung Nghia Nguyen"
-description              : &description "Trung Nghia Nguyen"
+name                     : &name "Nghia Nguyen-Trung"
+description              : &description "Nghia Nguyen-Trung"
 url                      : https://nghiant01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nghiant01/nghiant01.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Trung Nghia Nguyen"
+  name             : "Nghia Nguyen-Trung"
   avatar           : "Nghia.png"
-  bio              : "PhD student at Department of Statistics and Operations Research, University of North Carolina at Chapel Hill"
+  bio              : "PhD Candidate in Statistics and Operations Research at University of North Carolina at Chapel Hill"
   location         : "Chapel Hill, North Carolina"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
