@@ -14,12 +14,12 @@ author_profile: true
 <h3>Instructor of Record (Graduate Teaching Fellow)</h3>
 <ul>
   <li>
-    <b>STOR 113: Decision Models for Business and Economics</b> <i>(Summer 2025 — Sessions 1 &amp; 2)</i><br />
+    <b>STOR 113: Decision Models for Business and Economics</b> <i>(Summer 2025, 2026)</i><br />
     <i>Role: Primary Instructor</i><br />
     Fully responsible for syllabus design, lectures, assignments, and exams. Taught linear programming, decision analysis, and spreadsheet modeling for business applications.
   </li>
   <li style="margin-top: 10px;">
-    <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2024 — Session 2)</i><br />
+    <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2024)</i><br />
     <i>Role: Primary Instructor</i><br />
     Delivered lectures on foundational statistics, probability distributions, hypothesis testing, and regression modeling with hands-on R programming.
   </li>
