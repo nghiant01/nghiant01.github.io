@@ -21,7 +21,7 @@ author_profile: true
   <li style="margin-top: 10px;">
     <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2024)</i><br />
     <i>Role: Primary Instructor</i><br />
-    Delivered lectures on foundational statistics, probability distributions, hypothesis testing, and regression modeling with hands-on R programming.
+    Fully responsible for syllabus design, lectures, assignments, and exams. Covered exploratory data analysis, sampling/experimental design, probability distributions (binomial, normal, geometric), statistical inference (confidence intervals and hypothesis testing for means, proportions, and chi-square tests), and linear regression.
   </li>
 </ul>
 
@@ -45,7 +45,7 @@ author_profile: true
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2023 — Sessions 1 &amp; 2)</i><br />
-    Led recitation sessions, graded coursework, and assisted students with statistical inference, hypothesis testing, and introductory R programming.
+    Led recitation and tutorial sessions, graded coursework, and assisted students with probability theory, statistical inference for population parameters, linear regression modeling, and spreadsheet data analysis in Microsoft Excel.
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 113: Decision Models for Business and Economics</b> <i>(Spring 2023)</i><br />
