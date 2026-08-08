@@ -1,6 +1,7 @@
 ---
 title: "A new iterative method for solving the multiple-set split variational inequality problem in Hilbert spaces"
 collection: publications
+category: 'journal'
 permalink: /publication/optim-2022
 venue: 'Optimization'
 date: 2023-06-01
