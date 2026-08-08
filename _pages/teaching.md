@@ -14,9 +14,9 @@ author_profile: true
 <h3>Instructor of Record (Graduate Teaching Fellow)</h3>
 <ul>
   <li>
-    <b>STOR 113: Decision Models for Business and Economics</b> <i>(Summer 2025, 2026)</i><br />
+    <b>STOR 113: Decision Models for Business and Economics</b> <i>(Summer 2025 — Sessions 1 &amp; 2)</i><br />
     <i>Role: Primary Instructor</i><br />
-    Fully responsible for syllabus design, lectures, assignments, and exams. Taught linear programming, decision analysis, and spreadsheet modeling for business applications.
+    Fully responsible for syllabus design, lectures, assignments, and exams. Taught algebra and calculus-based quantitative decision models, non-linear functions, marginal analysis, single/multivariate optimization (partial derivatives, Lagrange multipliers), and elasticity for economic decision-making.
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2024)</i><br />
@@ -49,7 +49,7 @@ author_profile: true
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 113: Decision Models for Business and Economics</b> <i>(Spring 2023)</i><br />
-    Conducted discussion sections and provided technical assistance on linear programming, sensitivity analysis, and spreadsheet modeling.
+    Conducted discussion sections and provided technical assistance on introductory algebra and calculus-based quantitative modeling, derivative rules, and optimization in business contexts.
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 215: Foundations of Decision Science</b> <i>(Fall 2022)</i><br />
