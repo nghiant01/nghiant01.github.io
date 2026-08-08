@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "News & Talks"
 permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
+<h2 class="archive__subtitle">Recent News</h2>
+
+* **[Nov 2026]** Scheduled poster presentation at *SIAM Conference on Mathematics of Data Science (MDS26)* in Salt Lake City, Utah.
+* **[Nov 2026]** Scheduled contributed talk at *INFORMS Annual Meeting 2026* in San Francisco, CA.
+* **[May 2026]** Received the **Silver Reviewer Award** at the 43rd International Conference on Machine Learning (ICML 2026).
+* **[Mar 2026]** Paper *"Revisiting Extragradient-Type Methods: Part 1—Generalizations and Sublinear Convergence Rates"* published in *Computational Optimization and Applications (COAP)*.
+* **[Dec 2025]** Received the **Excellence in Teaching Assistance and Instruction Award** at UNC-Chapel Hill.
+* **[Dec 2024]** Received the **Excellence in Teaching Assistance and Instruction Award** at UNC-Chapel Hill.
+
+<hr style="margin: 2.5em 0 1.5em 0; border: 0; border-top: 1px solid #eeeeee;" />
+
+<h2 class="archive__subtitle">Conference Presentations &amp; Talks</h2>
+
 {% if site.talkmap_link == true %}
-
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign sorted_talks = site.talks | sort: "date" | reverse %}
+{% for post in sorted_talks %}
   {% include archive-single-talk.html %}
 {% endfor %}
