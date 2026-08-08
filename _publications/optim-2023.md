@@ -1,6 +1,7 @@
 ---
 title: "An inertial-type algorithm for a class of bilevel variational inequalities with the split variational inequality problem constraints"
 collection: publications
+category: 'journal'
 permalink: /publication/optim-2023
 venue: 'Optimization'
 date: 2023-09-26
