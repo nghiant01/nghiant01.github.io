@@ -28,24 +28,32 @@ author_profile: true
 <h3>Graduate Teaching Assistant &amp; Lab Instructor</h3>
 <ul>
   <li>
-    <b>STOR 612: Foundations of Optimization</b> <i>(Ph.D. Level, Fall 2026)</i><br />
+    <b>STOR 612: Foundations of Optimization</b> <i>(Ph.D. Level)</i><br />
     Led recitations and graded advanced assignments covering convex analysis, duality theory, and foundational optimization algorithms.
   </li>
-  <li style="margin-top: 8px;">
-    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b> <i>(Spring 2026)</i><br />
+  <li style="margin-top: 10px;">
+    <b>STOR 512: Optimization for Machine Learning and Neural Networks</b><br />
     Assisted in instruction on first-order methods, stochastic gradient descent, and optimization algorithms tailored for deep learning models.
   </li>
-  <li style="margin-top: 8px;">
+  <li style="margin-top: 10px;">
     <b>STOR 415 / STOR 415H: Introduction to Optimization (Standard &amp; Honors)</b> <i>(Fall 2025)</i><br />
     Held office hours and recitations on linear programming, simplex methods, network flows, and integer programming.
   </li>
-  <li style="margin-top: 8px;">
+  <li style="margin-top: 10px;">
     <b>STOR 120: Foundations of Statistics and Data Science</b> <i>(Spring 2024)</i><br />
     Served as Lab Instructor for 3 lab sections (80+ students), guiding students through computational data analysis and statistical inference in Python.
   </li>
-  <li style="margin-top: 8px;">
-    <b>STOR 215: Foundations of Decision Science</b> <i>(Fall 2022)</i> &amp; <b>STOR 113</b> <i>(Spring 2023)</i><br />
-    Supported discussion sections, homework grading, and student mentoring in foundational discrete mathematics and modeling.
+  <li style="margin-top: 10px;">
+    <b>STOR 155: Introduction to Data Models and Inference</b> <i>(Summer 2023 — Sessions 1 &amp; 2)</i><br />
+    Led recitation sessions, graded coursework, and assisted students with statistical inference, hypothesis testing, and introductory R programming.
+  </li>
+  <li style="margin-top: 10px;">
+    <b>STOR 113: Decision Models for Business and Economics</b> <i>(Spring 2023)</i><br />
+    Conducted discussion sections and provided technical assistance on linear programming, sensitivity analysis, and spreadsheet modeling.
+  </li>
+  <li style="margin-top: 10px;">
+    <b>STOR 215: Foundations of Decision Science</b> <i>(Fall 2022)</i><br />
+    Guided students through foundational concepts in discrete mathematics, logic, counting methods, and proof-based decision modeling.
   </li>
 </ul>
 
