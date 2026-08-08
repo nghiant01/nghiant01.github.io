@@ -1,8 +1,10 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Nghia Nguyen-Trung"
+excerpt: "Ph.D. Candidate in Statistics and Operations Research at UNC Chapel Hill"
 author_profile: true
+header:
+  og_image: "/images/Nghia.png"
 redirect_from: 
   - /about/
   - /about.html
