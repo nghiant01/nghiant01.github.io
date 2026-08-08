@@ -9,7 +9,7 @@ author_profile: true
 
 <h2 class="archive__subtitle">Teaching Experience</h2>
 
-<p>At UNC-Chapel Hill, I have served as both <b>Instructor of Record (Graduate Teaching Fellow)</b> with full course responsibility and <b>Graduate Teaching Assistant</b> across undergraduate and graduate-level courses in optimization, decision science, and data modeling.</p>
+<p>At UNC-Chapel Hill, I have been serving as both <b>Instructor of Record (Graduate Teaching Fellow)</b> with full course responsibility and <b>Graduate Teaching Assistant</b> across undergraduate and graduate-level courses in optimization, decision science, and data modeling.</p>
 
 <h3>Instructor of Record (Graduate Teaching Fellow)</h3>
 <ul>
