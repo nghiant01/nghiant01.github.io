@@ -29,11 +29,11 @@ author_profile: true
 <ul>
   <li>
     <b>STOR 612: Foundations of Optimization</b> <i>(Ph.D. Level)</i><br />
-    Led recitations and graded advanced assignments covering convex analysis, duality theory, and foundational optimization algorithms.
+    Led recitations and graded advanced graduate coursework covering convex analysis, duality theory, polyhedral geometry, linear/quadratic programming (simplex and interior-point methods), first-order &amp; proximal algorithms, accelerated gradient methods, and stochastic optimization (SGD with variance reduction) applied to ERM, LASSO, and SVMs.
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 512: Optimization for Machine Learning and Neural Networks</b><br />
-    Assisted in instruction on first-order methods, stochastic gradient descent, and optimization algorithms tailored for deep learning models.
+    Held weekly office hours and assisted with coursework grading. Guided students on optimization formulations in ML (nonlinear regression, SVMs, matrix factorizations), stochastic first-order algorithms (SGD, mini-batching, Adam), backpropagation and automatic differentiation, neural network training (PyTorch/TensorFlow), and minimax/GAN architectures.
   </li>
   <li style="margin-top: 10px;">
     <b>STOR 415 / STOR 415H: Introduction to Optimization (Standard &amp; Honors)</b> <i>(Fall 2025)</i><br />
