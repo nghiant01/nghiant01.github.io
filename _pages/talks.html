@@ -41,12 +41,15 @@ author_profile: true
 <h2 class="archive__subtitle">Recent News</h2>
 
 <ul class="news-list">
-  <li><b>[Nov 2026]</b> Scheduled poster presentation at <i>SIAM Conference on Mathematics of Data Science (MDS26)</i> in Salt Lake City, Utah. <span class="badge-new">NEW</span></li>
-  <li><b>[Nov 2026]</b> Scheduled contributed talk at <i>INFORMS Annual Meeting 2026</i> in San Francisco, CA. <span class="badge-new">NEW</span></li>
-  <li><b>[May 2026]</b> Received the <b>Silver Reviewer Award</b> at the 43rd International Conference on Machine Learning (ICML 2026). <span class="badge-new">NEW</span></li>
-  <li><b>[Mar 2026]</b> Paper <i>"Revisiting Extragradient-Type Methods: Part 1—Generalizations and Sublinear Convergence Rates"</i> published in <i>Computational Optimization and Applications (COAP)</i>.</li>
-  <li><b>[Dec 2025]</b> Received the <b>Excellence in Teaching Assistance and Instruction Award</b> at UNC-Chapel Hill.</li>
-  <li><b>[Dec 2024]</b> Received the <b>Excellence in Teaching Assistance and Instruction Award</b> at UNC-Chapel Hill.</li>
+  {% assign sorted_news = site.news | sort: "date" | reverse %}
+  {% for item in sorted_news %}
+    <li>
+      <b>[{{ item.date_display }}]</b> {{ item.content | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% if item.is_new %}
+        <span class="badge-new">NEW</span>
+      {% endif %}
+    </li>
+  {% endfor %}
 </ul>
 
 <hr style="margin: 2.5em 0 1.5em 0; border: 0; border-top: 1px solid #eeeeee;" />
