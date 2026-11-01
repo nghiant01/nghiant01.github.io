@@ -24,5 +24,8 @@ main:
  # - title: "STOR 565"
 #    url: /stor565/
 
-  - title: "Application Materials"
+  - title: "Academic Materials"
     url: /materials/
+
+  - title: "Industry Resume"
+    url: /industry-resume/
